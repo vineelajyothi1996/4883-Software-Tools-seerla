@@ -1,0 +1,1100 @@
+digraph G {
+	0 [label="Miraan
+Born: 1920
+Died: 2013
+Gender: M
+Clan: Agarwal" color=red fillcolor=red shape=rectangle style=filled]
+	1 [label="Anika
+Born: 1920
+Died: 1983
+Gender: F
+Clan: Mehta" color=pink fillcolor=pink shape=oval style=filled]
+	2 [label="Divit
+Born: 1951
+Died: 1952
+Gender: F
+Clan: Verma" color=green fillcolor=green shape=oval style=filled]
+	3 [label="Saanvi
+Born: 1954
+Died: 1992
+Gender: M
+Clan: Mehta" color=pink fillcolor=pink shape=rectangle style=filled]
+	4 [label="Damini
+Born: 1964
+Died: 2022
+Gender: F
+Clan: Khanna" color=purple fillcolor=purple shape=oval style=filled]
+	5 [label="Tanya
+Born: 1980
+Died: 1985
+Gender: F
+Clan: Khanna" color=purple fillcolor=purple shape=oval style=filled]
+	6 [label="Aarush
+Born: 1982
+Died: 2059
+Gender: F
+Clan: Khanna" color=purple fillcolor=purple shape=oval style=filled]
+	7 [label="Vritika
+Born: 1986
+Died: 2046
+Gender: F
+Clan: Sharma" color=gray fillcolor=gray shape=oval style=filled]
+	8 [label="Krish
+Born: 1980
+Died: 2041
+Gender: M
+Clan: Agarwal" color=red fillcolor=red shape=rectangle style=filled]
+	9 [label="Rania
+Born: 2004
+Died: 2025
+Gender: F
+Clan: Kapoor" color=blue fillcolor=blue shape=oval style=filled]
+	10 [label="Anahi
+Born: 1996
+Died: 2078
+Gender: M
+Clan: Gupta" color=green fillcolor=green shape=rectangle style=filled]
+	11 [label="Diya
+Born: 2021
+Died: 2022
+Gender: M
+Clan: Sharma" color=gray fillcolor=gray shape=rectangle style=filled]
+	12 [label="Biju
+Born: 2023
+Died: 2024
+Gender: F
+Clan: Sharma" color=gray fillcolor=gray shape=oval style=filled]
+	13 [label="Mannat
+Born: 2025
+Died: 2035
+Gender: M
+Clan: Kapoor" color=blue fillcolor=blue shape=rectangle style=filled]
+	14 [label="Nayantara
+Born: 2007
+Died: 2092
+Gender: M
+Clan: Patel" color=brown fillcolor=brown shape=rectangle style=filled]
+	15 [label="Kaira
+Born: 2010
+Died: 2012
+Gender: F
+Clan: Sharma" color=gray fillcolor=gray shape=oval style=filled]
+	16 [label="Anaya
+Born: 2012
+Died: 2076
+Gender: F
+Clan: Kapoor" color=blue fillcolor=blue shape=oval style=filled]
+	17 [label="Eva
+Born: 2004
+Died: 2077
+Gender: M
+Clan: Verma" color=green fillcolor=green shape=rectangle style=filled]
+	18 [label="Akarsh
+Born: 2030
+Died: 2084
+Gender: M
+Clan: Gupta" color=green fillcolor=green shape=rectangle style=filled]
+	19 [label="Lavanya
+Born: 2038
+Died: 2100
+Gender: F
+Clan: Kapoor" color=blue fillcolor=blue shape=oval style=filled]
+	20 [label="Dhanush
+Born: 2057
+Died: 2058
+Gender: M
+Clan: Kapoor" color=blue fillcolor=blue shape=rectangle style=filled]
+	21 [label="Aarna
+Born: 2060
+Died: 2061
+Gender: F
+Clan: Soni" color=red fillcolor=red shape=oval style=filled]
+	22 [label="Vidur
+Born: 2063
+Died: 2122
+Gender: F
+Clan: Soni" color=red fillcolor=red shape=oval style=filled]
+	23 [label="Aniruddh
+Born: 2054
+Died: 2124
+Gender: M
+Clan: Patel" color=brown fillcolor=brown shape=rectangle style=filled]
+	24 [label="Urvi
+Born: 2081
+Died: 2141
+Gender: M
+Clan: Patel" color=brown fillcolor=brown shape=rectangle style=filled]
+	25 [label="Shayak
+Born: 2083
+Died: 2126
+Gender: F
+Clan: Sharma" color=gray fillcolor=gray shape=oval style=filled]
+	26 [label="Hazel
+Born: 2086
+Died: 2087
+Gender: F
+Clan: Soni" color=red fillcolor=red shape=oval style=filled]
+	27 [label="Shray
+Born: 2088
+Died: 2166
+Gender: M
+Clan: Kapoor" color=blue fillcolor=blue shape=rectangle style=filled]
+	32 [label="Faiyaz
+Born: 2065
+Died: 2144
+Gender: M
+Clan: Soni" color=red fillcolor=red shape=rectangle style=filled]
+	33 [label="Saksham
+Born: 2067
+Died: 2142
+Gender: M
+Clan: Agarwal" color=red fillcolor=red shape=rectangle style=filled]
+	34 [label="Madhav
+Born: 2069
+Died: 2143
+Gender: F
+Clan: Khanna" color=purple fillcolor=purple shape=oval style=filled]
+	35 [label="Hridaan
+Born: 2057
+Died: 2122
+Gender: M
+Clan: Khanna" color=purple fillcolor=purple shape=rectangle style=filled]
+	36 [label="Aradhya
+Born: 2089
+Died: 2148
+Gender: M
+Clan: Agarwal" color=red fillcolor=red shape=rectangle style=filled]
+	34 [label="Badal
+Born: 2069
+Died: 2098
+Gender: F
+Clan: Malhotra" color=orange fillcolor=orange shape=oval style=filled]
+	41 [label="Tushar
+Born: 2071
+Died: 2176
+Gender: M
+Clan: Kapoor" color=blue fillcolor=blue shape=rectangle style=filled]
+	42 [label="Hrishita
+Born: 2073
+Died: 2150
+Gender: F
+Clan: Soni" color=red fillcolor=red shape=oval style=filled]
+	43 [label="Amira
+Born: 2090
+Died: 2098
+Gender: F
+Clan: Patel" color=brown fillcolor=brown shape=oval style=filled]
+	59 [label="Aradhya
+Born: 2077
+Died: 2127
+Gender: M
+Clan: Agarwal" color=red fillcolor=red shape=rectangle style=filled]
+	60 [label="Aarav
+Born: 2033
+Died: 2115
+Gender: M
+Clan: Agarwal" color=red fillcolor=red shape=rectangle style=filled]
+	61 [label="Kabir
+Born: 2039
+Died: 2131
+Gender: F
+Clan: Kapoor" color=blue fillcolor=blue shape=oval style=filled]
+	62 [label="Navya
+Born: 2058
+Died: 2154
+Gender: M
+Clan: Patel" color=brown fillcolor=brown shape=rectangle style=filled]
+	63 [label="Adira
+Born: 2072
+Died: 2160
+Gender: F
+Clan: Malhotra" color=orange fillcolor=orange shape=oval style=filled]
+	64 [label="Hazel
+Born: 2089
+Died: 2091
+Gender: M
+Clan: Kapoor" color=blue fillcolor=blue shape=rectangle style=filled]
+	72 [label="Mamooty
+Born: 2061
+Died: 2062
+Gender: M
+Clan: Soni" color=red fillcolor=red shape=rectangle style=filled]
+	73 [label="Anika
+Born: 2064
+Died: 2154
+Gender: M
+Clan: Sharma" color=gray fillcolor=gray shape=rectangle style=filled]
+	74 [label="Onkar
+Born: 2066
+Died: 2068
+Gender: M
+Clan: Malhotra" color=orange fillcolor=orange shape=rectangle style=filled]
+	75 [label="Romil
+Born: 2068
+Died: 2147
+Gender: M
+Clan: Kapoor" color=blue fillcolor=blue shape=rectangle style=filled]
+	76 [label="Yuvaan
+Born: 2071
+Died: 2145
+Gender: F
+Clan: Kapoor" color=blue fillcolor=blue shape=oval style=filled]
+	77 [label="Shanaya
+Born: 2088
+Died: 2164
+Gender: F
+Clan: Verma" color=green fillcolor=green shape=oval style=filled]
+	84 [label="Sahil
+Born: 2071
+Died: 2162
+Gender: F
+Clan: Soni" color=red fillcolor=red shape=oval style=filled]
+	85 [label="Madhav
+Born: 2068
+Died: 2127
+Gender: M
+Clan: Agarwal" color=red fillcolor=red shape=rectangle style=filled]
+	86 [label="Farhan
+Born: 2089
+Died: 2147
+Gender: F
+Clan: Sharma" color=gray fillcolor=gray shape=oval style=filled]
+	107 [label="Neysa
+Born: 2073
+Died: 2135
+Gender: F
+Clan: Sharma" color=gray fillcolor=gray shape=oval style=filled]
+	108 [label="Sara
+Born: 2060
+Died: 2108
+Gender: M
+Clan: Gupta" color=green fillcolor=green shape=rectangle style=filled]
+	109 [label="Ritvik
+Born: 2089
+Died: 2169
+Gender: M
+Clan: Gupta" color=green fillcolor=green shape=rectangle style=filled]
+	107 [label="Purab
+Born: 2073
+Died: 2093
+Gender: F
+Clan: Khanna" color=purple fillcolor=purple shape=oval style=filled]
+	112 [label="Vanya
+Born: 2076
+Died: 2155
+Gender: F
+Clan: Khanna" color=purple fillcolor=purple shape=oval style=filled]
+	113 [label="Vihaan
+Born: 2035
+Died: 2119
+Gender: M
+Clan: Mehta" color=pink fillcolor=pink shape=rectangle style=filled]
+	114 [label="Zaina
+Born: 2037
+Died: 2038
+Gender: F
+Clan: Mehta" color=pink fillcolor=pink shape=oval style=filled]
+	115 [label="Badal
+Born: 2040
+Died: 2044
+Gender: M
+Clan: Sharma" color=gray fillcolor=gray shape=rectangle style=filled]
+	116 [label="Riya
+Born: 2043
+Died: 2103
+Gender: F
+Clan: Verma" color=green fillcolor=green shape=oval style=filled]
+	117 [label="Zeeshan
+Born: 2038
+Died: 2108
+Gender: M
+Clan: Malhotra" color=orange fillcolor=orange shape=rectangle style=filled]
+	118 [label="Samiha
+Born: 2062
+Died: 2113
+Gender: F
+Clan: Kapoor" color=blue fillcolor=blue shape=oval style=filled]
+	119 [label="Jayesh
+Born: 2051
+Died: 2125
+Gender: M
+Clan: Verma" color=green fillcolor=green shape=rectangle style=filled]
+	120 [label="Raunak
+Born: 2078
+Died: 2123
+Gender: M
+Clan: Kapoor" color=blue fillcolor=blue shape=rectangle style=filled]
+	121 [label="Ojas
+Born: 2080
+Died: 2148
+Gender: M
+Clan: Malhotra" color=orange fillcolor=orange shape=rectangle style=filled]
+	122 [label="Ahana 
+Born: 2082
+Died: 2089
+Gender: F
+Clan: Sharma" color=gray fillcolor=gray shape=oval style=filled]
+	118 [label="Manikya
+Born: 2062
+Died: 2093
+Gender: F
+Clan: Malhotra" color=orange fillcolor=orange shape=oval style=filled]
+	124 [label="Tiya
+Born: 2086
+Died: 2087
+Gender: M
+Clan: Verma" color=green fillcolor=green shape=rectangle style=filled]
+	125 [label="Rati
+Born: 2088
+Died: 2161
+Gender: M
+Clan: Mehta" color=pink fillcolor=pink shape=rectangle style=filled]
+	126 [label="Arnav
+Born: 2090
+Died: 2168
+Gender: M
+Clan: Patel" color=brown fillcolor=brown shape=rectangle style=filled]
+	128 [label="Samarth
+Born: 2064
+Died: 2138
+Gender: M
+Clan: Mehta" color=pink fillcolor=pink shape=rectangle style=filled]
+	129 [label="Aarush
+Born: 2067
+Died: 2154
+Gender: F
+Clan: Malhotra" color=orange fillcolor=orange shape=oval style=filled]
+	130 [label="Mannat
+Born: 2070
+Died: 2152
+Gender: M
+Clan: Kapoor" color=blue fillcolor=blue shape=rectangle style=filled]
+	131 [label="Jiya
+Born: 2074
+Died: 2075
+Gender: M
+Clan: Mehta" color=pink fillcolor=pink shape=rectangle style=filled]
+	132 [label="Jayesh
+Born: 2077
+Died: 2078
+Gender: F
+Clan: Patel" color=brown fillcolor=brown shape=oval style=filled]
+	134 [label="Onkar
+Born: 2046
+Died: 2136
+Gender: M
+Clan: Khanna" color=purple fillcolor=purple shape=rectangle style=filled]
+	135 [label="Yuvraj 
+Born: 2056
+Died: 2149
+Gender: F
+Clan: Mehta" color=pink fillcolor=pink shape=oval style=filled]
+	136 [label="Lakshit
+Born: 2072
+Died: 2126
+Gender: M
+Clan: Soni" color=red fillcolor=red shape=rectangle style=filled]
+	137 [label="Farhan
+Born: 2075
+Died: 2180
+Gender: M
+Clan: Soni" color=red fillcolor=red shape=rectangle style=filled]
+	138 [label="Chirag
+Born: 2077
+Died: 2152
+Gender: M
+Clan: Sharma" color=gray fillcolor=gray shape=rectangle style=filled]
+	139 [label="Mohanlal
+Born: 2080
+Died: 2148
+Gender: M
+Clan: Kapoor" color=blue fillcolor=blue shape=rectangle style=filled]
+	140 [label="Amani
+Born: 2083
+Died: 2123
+Gender: F
+Clan: Mehta" color=pink fillcolor=pink shape=oval style=filled]
+	141 [label="Emir
+Born: 2090
+Died: 2091
+Gender: M
+Clan: Patel" color=brown fillcolor=brown shape=rectangle style=filled]
+	143 [label="Eva
+Born: 2015
+Died: 2085
+Gender: M
+Clan: Soni" color=red fillcolor=red shape=rectangle style=filled]
+	144 [label="Eva
+Born: 2019
+Died: 2112
+Gender: F
+Clan: Soni" color=red fillcolor=red shape=oval style=filled]
+	145 [label="Zara
+Born: 2014
+Died: 2109
+Gender: M
+Clan: Verma" color=green fillcolor=green shape=rectangle style=filled]
+	146 [label="Raghav
+Born: 2036
+Died: 2113
+Gender: M
+Clan: Gupta" color=green fillcolor=green shape=rectangle style=filled]
+	147 [label="Uthkarsh
+Born: 2039
+Died: 2108
+Gender: M
+Clan: Patel" color=brown fillcolor=brown shape=rectangle style=filled]
+	148 [label="Zara
+Born: 2041
+Died: 2086
+Gender: M
+Clan: Malhotra" color=orange fillcolor=orange shape=rectangle style=filled]
+	149 [label="Vidur
+Born: 2043
+Died: 2107
+Gender: F
+Clan: Verma" color=green fillcolor=green shape=oval style=filled]
+	150 [label="Hunar
+Born: 2063
+Died: 2108
+Gender: F
+Clan: Verma" color=green fillcolor=green shape=oval style=filled]
+	151 [label="Reyansh
+Born: 2057
+Died: 2116
+Gender: M
+Clan: Mehta" color=pink fillcolor=pink shape=rectangle style=filled]
+	152 [label="Misha
+Born: 2080
+Died: 2143
+Gender: F
+Clan: Khanna" color=purple fillcolor=purple shape=oval style=filled]
+	153 [label="Rhea
+Born: 2082
+Died: 2086
+Gender: M
+Clan: Mehta" color=pink fillcolor=pink shape=rectangle style=filled]
+	154 [label="Raunak
+Born: 2085
+Died: 2098
+Gender: M
+Clan: Khanna" color=purple fillcolor=purple shape=rectangle style=filled]
+	155 [label="Parinaaz
+Born: 2088
+Died: 2175
+Gender: F
+Clan: Kapoor" color=blue fillcolor=blue shape=oval style=filled]
+	162 [label="Hridaan
+Born: 2065
+Died: 2068
+Gender: M
+Clan: Verma" color=green fillcolor=green shape=rectangle style=filled]
+	163 [label="Farhan
+Born: 2067
+Died: 2137
+Gender: M
+Clan: Mehta" color=pink fillcolor=pink shape=rectangle style=filled]
+	164 [label="Alia
+Born: 2070
+Died: 2071
+Gender: F
+Clan: Gupta" color=green fillcolor=green shape=oval style=filled]
+	165 [label="Kismat
+Born: 2074
+Died: 2138
+Gender: M
+Clan: Khanna" color=purple fillcolor=purple shape=rectangle style=filled]
+	166 [label="Himmat
+Born: 2077
+Died: 2078
+Gender: M
+Clan: Mehta" color=pink fillcolor=pink shape=rectangle style=filled]
+	167 [label="Amira
+Born: 2081
+Died: 2150
+Gender: F
+Clan: Kapoor" color=blue fillcolor=blue shape=oval style=filled]
+	168 [label="Jayan
+Born: 2044
+Died: 2045
+Gender: F
+Clan: Sharma" color=gray fillcolor=gray shape=oval style=filled]
+	169 [label="Emir
+Born: 2046
+Died: 2111
+Gender: M
+Clan: Malhotra" color=orange fillcolor=orange shape=rectangle style=filled]
+	170 [label="Samar
+Born: 2059
+Died: 2153
+Gender: F
+Clan: Sharma" color=gray fillcolor=gray shape=oval style=filled]
+	171 [label="Anahita
+Born: 2077
+Died: 2078
+Gender: M
+Clan: Agarwal" color=red fillcolor=red shape=rectangle style=filled]
+	172 [label="Badal
+Born: 2079
+Died: 2093
+Gender: M
+Clan: Gupta" color=green fillcolor=green shape=rectangle style=filled]
+	173 [label="Arnav
+Born: 2081
+Died: 2160
+Gender: M
+Clan: Khanna" color=purple fillcolor=purple shape=rectangle style=filled]
+	174 [label="Rati
+Born: 2083
+Died: 2174
+Gender: M
+Clan: Soni" color=red fillcolor=red shape=rectangle style=filled]
+	175 [label="Saanvi
+Born: 2086
+Died: 2123
+Gender: F
+Clan: Agarwal" color=red fillcolor=red shape=oval style=filled]
+	176 [label="Jayesh
+Born: 2088
+Died: 2138
+Gender: M
+Clan: Verma" color=green fillcolor=green shape=rectangle style=filled]
+	180 [label="Sana
+Born: 2050
+Died: 2051
+Gender: F
+Clan: Sharma" color=gray fillcolor=gray shape=oval style=filled]
+	181 [label="Rasha
+Born: 2052
+Died: 2105
+Gender: F
+Clan: Kapoor" color=blue fillcolor=blue shape=oval style=filled]
+	182 [label="Nitya
+Born: 2037
+Died: 2091
+Gender: M
+Clan: Mehta" color=pink fillcolor=pink shape=rectangle style=filled]
+	183 [label="Saira
+Born: 2068
+Died: 2139
+Gender: M
+Clan: Khanna" color=purple fillcolor=purple shape=rectangle style=filled]
+	184 [label="Priyansh
+Born: 2071
+Died: 2072
+Gender: M
+Clan: Agarwal" color=red fillcolor=red shape=rectangle style=filled]
+	185 [label="Lakshay
+Born: 2074
+Died: 2167
+Gender: M
+Clan: Kapoor" color=blue fillcolor=blue shape=rectangle style=filled]
+	186 [label="Vanya
+Born: 2077
+Died: 2165
+Gender: F
+Clan: Patel" color=brown fillcolor=brown shape=oval style=filled]
+	187 [label="Onkar
+Born: 2080
+Died: 2172
+Gender: F
+Clan: Verma" color=green fillcolor=green shape=oval style=filled]
+	188 [label="Shayak
+Born: 2083
+Died: 2084
+Gender: M
+Clan: Agarwal" color=red fillcolor=red shape=rectangle style=filled]
+	189 [label="Samar
+Born: 2086
+Died: 2185
+Gender: M
+Clan: Khanna" color=purple fillcolor=purple shape=rectangle style=filled]
+	201 [label="Pranay
+Born: 2056
+Died: 2114
+Gender: F
+Clan: Patel" color=brown fillcolor=brown shape=oval style=filled]
+	202 [label="Yuvaan
+Born: 2044
+Died: 2110
+Gender: M
+Clan: Malhotra" color=orange fillcolor=orange shape=rectangle style=filled]
+	203 [label="Riaan
+Born: 2072
+Died: 2156
+Gender: M
+Clan: Kapoor" color=blue fillcolor=blue shape=rectangle style=filled]
+	204 [label="Trisha
+Born: 2075
+Died: 2159
+Gender: F
+Clan: Verma" color=green fillcolor=green shape=oval style=filled]
+	205 [label="Aradhya
+Born: 2077
+Died: 2143
+Gender: M
+Clan: Verma" color=green fillcolor=green shape=rectangle style=filled]
+	206 [label="Prerak
+Born: 2079
+Died: 2181
+Gender: F
+Clan: Sharma" color=gray fillcolor=gray shape=oval style=filled]
+	207 [label="Kaira
+Born: 2081
+Died: 2086
+Gender: M
+Clan: Soni" color=red fillcolor=red shape=rectangle style=filled]
+	208 [label="Rhea
+Born: 2083
+Died: 2084
+Gender: F
+Clan: Malhotra" color=orange fillcolor=orange shape=oval style=filled]
+	209 [label="Kanav
+Born: 2085
+Died: 2086
+Gender: F
+Clan: Khanna" color=purple fillcolor=purple shape=oval style=filled]
+	210 [label="Zeeshan
+Born: 2088
+Died: 2163
+Gender: M
+Clan: Soni" color=red fillcolor=red shape=rectangle style=filled]
+	211 [label="Dhanush
+Born: 2090
+Died: 2091
+Gender: M
+Clan: Kapoor" color=blue fillcolor=blue shape=rectangle style=filled]
+	216 [label="Ranbir
+Born: 2058
+Died: 2117
+Gender: M
+Clan: Khanna" color=purple fillcolor=purple shape=rectangle style=filled]
+	217 [label="Kabir
+Born: 2060
+Died: 2154
+Gender: M
+Clan: Mehta" color=pink fillcolor=pink shape=rectangle style=filled]
+	218 [label="Farhan
+Born: 1988
+Died: 1998
+Gender: M
+Clan: Soni" color=red fillcolor=red shape=rectangle style=filled]
+	219 [label="Taimur
+Born: 1990
+Died: 1991
+Gender: F
+Clan: Agarwal" color=red fillcolor=red shape=oval style=filled]
+	220 [label="Eshani
+Born: 1956
+Died: 1959
+Gender: M
+Clan: Mehta" color=pink fillcolor=pink shape=rectangle style=filled]
+	221 [label="Tushar
+Born: 1958
+Died: 2014
+Gender: M
+Clan: Patel" color=brown fillcolor=brown shape=rectangle style=filled]
+	{
+		rank=same
+		0
+		1
+	}
+	{
+		rank=same
+		2
+		3
+		4
+		220
+		221
+	}
+	{
+		rank=same
+		5
+		6
+		7
+		8
+		218
+		219
+	}
+	{
+		rank=same
+		9
+		10
+		14
+		15
+		16
+		17
+		143
+		144
+		145
+	}
+	{
+		rank=same
+		11
+		12
+		13
+		18
+		19
+		60
+		61
+		113
+		114
+		115
+		116
+		117
+		134
+		135
+		146
+		147
+		148
+		149
+		168
+		169
+		170
+		180
+		181
+		182
+		201
+		202
+		216
+		217
+	}
+	{
+		rank=same
+		20
+		21
+		22
+		23
+		32
+		33
+		34
+		35
+		34
+		41
+		42
+		59
+		62
+		63
+		72
+		73
+		74
+		75
+		76
+		84
+		85
+		107
+		108
+		107
+		112
+		118
+		119
+		118
+		128
+		129
+		130
+		131
+		132
+		136
+		137
+		138
+		139
+		140
+		141
+		150
+		151
+		162
+		163
+		164
+		165
+		166
+		167
+		171
+		172
+		173
+		174
+		175
+		176
+		183
+		184
+		185
+		186
+		187
+		188
+		189
+		203
+		204
+		205
+		206
+		207
+		208
+		209
+		210
+		211
+	}
+	{
+		rank=same
+		24
+		25
+		26
+		27
+		36
+		43
+		64
+		77
+		86
+		109
+		120
+		121
+		122
+		124
+		125
+		126
+		152
+		153
+		154
+		155
+	}
+	0 -> 2
+	1 -> 2
+	0 -> 3
+	1 -> 3
+	3 -> 5
+	4 -> 5
+	3 -> 6
+	4 -> 6
+	3 -> 7
+	4 -> 7
+	8 -> 7 [label=married color=red]
+	7 -> 9
+	8 -> 9
+	10 -> 9 [label=married color=red]
+	9 -> 11
+	10 -> 11
+	9 -> 12
+	10 -> 12
+	9 -> 13
+	10 -> 13
+	7 -> 14
+	8 -> 14
+	7 -> 15
+	8 -> 15
+	7 -> 16
+	8 -> 16
+	17 -> 16 [label=married color=red]
+	16 -> 18
+	17 -> 18
+	18 -> 20
+	19 -> 20
+	18 -> 21
+	19 -> 21
+	18 -> 22
+	19 -> 22
+	23 -> 22 [label=married color=red]
+	22 -> 24
+	23 -> 24
+	22 -> 25
+	23 -> 25
+	22 -> 26
+	23 -> 26
+	22 -> 27
+	23 -> 27
+	18 -> 32
+	19 -> 32
+	18 -> 33
+	19 -> 33
+	18 -> 34
+	19 -> 34
+	35 -> 34 [label=married color=red]
+	34 -> 36
+	35 -> 36
+	18 -> 34
+	19 -> 34
+	18 -> 41
+	19 -> 41
+	41 -> 43
+	42 -> 43
+	18 -> 59
+	19 -> 59
+	16 -> 60
+	17 -> 60
+	60 -> 62
+	61 -> 62
+	62 -> 64
+	63 -> 64
+	60 -> 72
+	61 -> 72
+	60 -> 73
+	61 -> 73
+	60 -> 74
+	61 -> 74
+	60 -> 75
+	61 -> 75
+	75 -> 77
+	76 -> 77
+	60 -> 84
+	61 -> 84
+	85 -> 84 [label=married color=red]
+	84 -> 86
+	85 -> 86
+	60 -> 107
+	61 -> 107
+	108 -> 107 [label=married color=red]
+	107 -> 109
+	108 -> 109
+	60 -> 107
+	61 -> 107
+	60 -> 112
+	61 -> 112
+	16 -> 113
+	17 -> 113
+	16 -> 114
+	17 -> 114
+	16 -> 115
+	17 -> 115
+	16 -> 116
+	17 -> 116
+	117 -> 116 [label=married color=red]
+	116 -> 118
+	117 -> 118
+	119 -> 118 [label=married color=red]
+	118 -> 120
+	119 -> 120
+	118 -> 121
+	119 -> 121
+	118 -> 122
+	119 -> 122
+	116 -> 118
+	117 -> 118
+	118 -> 124
+	119 -> 124
+	118 -> 125
+	119 -> 125
+	118 -> 126
+	119 -> 126
+	116 -> 128
+	117 -> 128
+	116 -> 129
+	117 -> 129
+	116 -> 130
+	117 -> 130
+	116 -> 131
+	117 -> 131
+	116 -> 132
+	117 -> 132
+	16 -> 134
+	17 -> 134
+	134 -> 136
+	135 -> 136
+	134 -> 137
+	135 -> 137
+	134 -> 138
+	135 -> 138
+	134 -> 139
+	135 -> 139
+	134 -> 140
+	135 -> 140
+	134 -> 141
+	135 -> 141
+	7 -> 143
+	8 -> 143
+	7 -> 144
+	8 -> 144
+	145 -> 144 [label=married color=red]
+	144 -> 146
+	145 -> 146
+	144 -> 147
+	145 -> 147
+	144 -> 148
+	145 -> 148
+	148 -> 150
+	149 -> 150
+	151 -> 150 [label=married color=red]
+	150 -> 152
+	151 -> 152
+	150 -> 153
+	151 -> 153
+	150 -> 154
+	151 -> 154
+	150 -> 155
+	151 -> 155
+	148 -> 162
+	149 -> 162
+	148 -> 163
+	149 -> 163
+	148 -> 164
+	149 -> 164
+	148 -> 165
+	149 -> 165
+	148 -> 166
+	149 -> 166
+	148 -> 167
+	149 -> 167
+	144 -> 168
+	145 -> 168
+	144 -> 169
+	145 -> 169
+	169 -> 171
+	170 -> 171
+	169 -> 172
+	170 -> 172
+	169 -> 173
+	170 -> 173
+	169 -> 174
+	170 -> 174
+	169 -> 175
+	170 -> 175
+	169 -> 176
+	170 -> 176
+	144 -> 180
+	145 -> 180
+	144 -> 181
+	145 -> 181
+	182 -> 181 [label=married color=red]
+	181 -> 183
+	182 -> 183
+	181 -> 184
+	182 -> 184
+	181 -> 185
+	182 -> 185
+	181 -> 186
+	182 -> 186
+	181 -> 187
+	182 -> 187
+	181 -> 188
+	182 -> 188
+	181 -> 189
+	182 -> 189
+	144 -> 201
+	145 -> 201
+	202 -> 201 [label=married color=red]
+	201 -> 203
+	202 -> 203
+	201 -> 204
+	202 -> 204
+	201 -> 205
+	202 -> 205
+	201 -> 206
+	202 -> 206
+	201 -> 207
+	202 -> 207
+	201 -> 208
+	202 -> 208
+	201 -> 209
+	202 -> 209
+	201 -> 210
+	202 -> 210
+	201 -> 211
+	202 -> 211
+	144 -> 216
+	145 -> 216
+	144 -> 217
+	145 -> 217
+	3 -> 218
+	4 -> 218
+	3 -> 219
+	4 -> 219
+	0 -> 220
+	1 -> 220
+	0 -> 221
+	1 -> 221
+}
