@@ -8,11 +8,12 @@ The resulting python gui will display the received data in a tabular format.
 
 ### Files
 
-|   #   | File            | Description                                          |
-| :---: | --------------- | --------------------------------------------------   |
-|   1   | ws.py           | gui layout to take input and scrap data gives gui o/p|
-|   2   | input.png       | gui window that takes input values                   |
-|   3   | output.png      | gui window that displays rendered values             |
+|   #   | File                | Description                                          |
+| :---: | ---------------     | --------------------------------------------------   |
+|   1   | gui.py              | gui layout to take input and scrap data gives gui o/p|
+|   2   | input.png           | gui window that takes input values                   |
+|   3   | output.png          | gui window that displays rendered values             |
+|   4   | airports-better.json| get airport codes                                    |
 
 ### Instructions
 
