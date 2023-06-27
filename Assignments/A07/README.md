@@ -35,4 +35,14 @@ selenium-wire
 <img align="left" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A07/1-1-2000%20INPUT.png">
 <img align="left" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A07/1-1-2000%20OUTPUT.png">
 
+### Input and output example 2
+<img align="left" width="150" height="310" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A07/31-12-2022%20KCHO%20INPUT.png">
+<img align="left" width="150" height="310" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A07/31-12-2022%20KCHO%20OUTPUT.png">
+
+### Input and output example 3
+<img align="left" width="150" height="310" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A07/5-6-2004%20KEWR%20INPUT.png">
+<img align="left" width="150" height="310" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A07/5-6-2004%20KEWR%20OUTPUT.png">
+
+
+
 
