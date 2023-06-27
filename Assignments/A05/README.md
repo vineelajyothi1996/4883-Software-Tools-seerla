@@ -25,3 +25,7 @@ TO GENERATE UNIQUE FAMILY TREE DATA http://mcdemarco.net/tools/family-tree-gener
 - fill the columns go csv view copy the data and save it
 - use python code and use library if needed to read the file and take detail and buid a .dot format
 - copy .dot format and paste in graphviz to see the output tree
+
+### Output
+<img align="left" width="150" height="310" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A05/family_tree.png">
+
