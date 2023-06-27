@@ -27,5 +27,5 @@ TO GENERATE UNIQUE FAMILY TREE DATA http://mcdemarco.net/tools/family-tree-gener
 - copy .dot format and paste in graphviz to see the output tree
 
 ### Output
-<img align="left" width="150" height="310" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A05/family_tree.png">
+<img align="left" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A05/family_tree.png">
 
