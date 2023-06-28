@@ -33,3 +33,7 @@ JIRA is good for a wide range of businesses and team sizes because it can be cha
 - Configure alerts to keep informed about significant changes to your projects like problem assignments, comments, or status updates.
 - Dashboard tools to learn more about the development and effectiveness of your team. Build personalized dashboards to track important metrics and display project data.
 - Utilize the integrations and plugins available in the Jira marketplace.Install any that can connect to other tools your company uses or that can add new features.
+
+
+### Reference
+- https://support.atlassian.com/jira-software-cloud/resources/
