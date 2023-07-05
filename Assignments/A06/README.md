@@ -50,7 +50,7 @@ JIRA is good for a wide range of businesses and team sizes because it can be cha
 - 13-point estimate suggests a more complex activity that may take weeks and require extensive research and problem-solving.
 - 20-point estimate indicates a complex work that may take weeks or months to accomplish and require a lot of team effort and resources.
 
-<img align="center" width="150" height="310" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/STORY%20POINT%20ESTIMATE.png">
+<img align="center" width="300" height="300" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/STORY%20POINT%20ESTIMATE.png">
 
 ### Instructions
 - Go to https://www.atlassian.com/software/jira and get free version.
