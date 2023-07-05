@@ -59,7 +59,11 @@ JIRA is good for a wide range of businesses and team sizes because it can be cha
 ### EXAMPLES
 
 ### SAMPLE PROJECTS AND ISSUES RELATED TO THEM: 
-<img align="center" width="700" height="500" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/choose%20a%20project.png">
+<img align="center" width="1000" height="400" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/choose%20a%20project.png">
+
+### SAMPLE DASHBOARDS:
+![SAMPLE DASHBOARD.png…](SAMPLE-DASHBOARD.png)
+
 
 ### Reference
 - https://support.atlassian.com/jira-software-cloud/resources/
