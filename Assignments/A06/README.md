@@ -33,6 +33,8 @@ JIRA is good for a wide range of businesses and team sizes because it can be cha
 - Bug: Represents a problem or issue found in the software that needs to be resolved.
 - Sub-task: Represents a smaller piece of work or a subtask of a larger issue or task.
 
+<img align="center" width="700" height="500" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/epic%20story%20task.png">
+
 ### PRIORITY LEVELS OF ISSUES:
 - Priority levels are used to indicate the relative importance or urgency of an issue.
 - Blocker: Issues that block progress and prevent any further work. The problem affects critical functionality or production systems.
@@ -63,6 +65,9 @@ JIRA is good for a wide range of businesses and team sizes because it can be cha
 
 ### SAMPLE DASHBOARDS:
 <img align="center" width="1100" height="500" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/SAMPLE%20DASHBOARD%20.png">
+
+### SAMPLE TIMELINE:
+<img align="center" width="1100" height="500" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/sample%20timelines.png">
 
 ### Reference
 - https://support.atlassian.com/jira-software-cloud/resources/
