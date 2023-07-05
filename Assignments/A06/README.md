@@ -43,7 +43,7 @@ JIRA is good for a wide range of businesses and team sizes because it can be cha
 
 ### STORY POINT ESTIMATION:
 
-<img align="center" width="500" height="300" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/STORY%20POINT%20ESTIMATE.png">
+<img align="center" width="700" height="500" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/STORY%20POINT%20ESTIMATE.png">
 
 ### Instructions
 - Go to https://www.atlassian.com/software/jira and get free version.
@@ -56,6 +56,10 @@ JIRA is good for a wide range of businesses and team sizes because it can be cha
 - Dashboard tools to learn more about the development and effectiveness of your team. Build personalized dashboards to track important metrics and display project data.
 - Utilize the integrations and plugins available in the Jira marketplace. Install any that can connect to other tools your company uses or that can add new features.
 
+### EXAMPLES
+
+### SAMPLE PROJECTS AND ISSUES RELATED TO THEM: 
+<img align="center" width="700" height="500" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/choose%20a%20project.png">
 
 ### Reference
 - https://support.atlassian.com/jira-software-cloud/resources/
