@@ -17,11 +17,11 @@ JIRA is good for a wide range of businesses and team sizes because it can be cha
 
 ### OVERVIEW
 
--Jira offers visual boards for managing and visualizing work in progress, including Scrum and Kanban boards.
--Jira interfaces with many other programs and platforms, including Confluence, Bitbucket, and Slack, to improve teamwork and productivity.
--Jira's numerous customization features let you adapt it to the unique requirements and work processes of your team.
--To expand the functionality of Jira, you may search and install different plugins and extensions using an API and a marketplace.
--Jira can be accessed via mobile apps or a web-based interface, enabling teams to collaborate from any location.
+- Jira offers visual boards for managing and visualizing work in progress, including Scrum and Kanban boards.
+- Jira interfaces with many other programs and platforms, including Confluence, Bitbucket, and Slack, to improve teamwork and productivity.
+- Jira's numerous customization features let you adapt it to the unique requirements and work processes of your team.
+- To expand the functionality of Jira, you may search and install different plugins and extensions using an API and a marketplace.
+- Jira can be accessed via mobile apps or a web-based interface, enabling teams to collaborate from any location.
 
 ### WHAT IS PROJECT?
 -A project in Jira is a defined workspace that groups and monitors work items, bugs, and workflows. It helps teams work together, plan, and handle their work. It also provides a central platform for managing projects and software development.
