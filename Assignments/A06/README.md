@@ -47,6 +47,10 @@ JIRA is good for a wide range of businesses and team sizes because it can be cha
 
 <img align="center" width="700" height="500" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/STORY%20POINT%20ESTIMATE.png">
 
+### TEAM MANAGED PROJECT VS COMPANY MANAGED PROJECT:
+
+<img align="center" width="900" height="900" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/team%20vs%20company.png">
+
 ### Instructions
 - Go to https://www.atlassian.com/software/jira and get free version.
 - Build a project. Select a simple project template, that fits the requirements of your team.
