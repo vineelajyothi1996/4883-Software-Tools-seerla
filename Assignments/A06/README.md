@@ -28,7 +28,7 @@ JIRA is good for a wide range of businesses and team sizes because it can be cha
 
 ### TEAM MANAGED PROJECT VS COMPANY MANAGED PROJECT:
 
-<img align="center" width="1400" height="900" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/team%20vs%20company.png">
+<img align="center" width="1100" height="900" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/TEAM%20VS%20COMPANY%20MANAGED.png">
 
 ### ISSUE TYPES IN JIRA:
 - Epic: Represents a larger body of work that can be broken down into smaller tasks or stories.
