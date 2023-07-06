@@ -26,6 +26,10 @@ JIRA is good for a wide range of businesses and team sizes because it can be cha
 ### WHAT IS PROJECT?
 -A project in Jira is a defined workspace that groups and monitors work items, bugs, and workflows. It helps teams work together, plan, and handle their work. It also provides a central platform for managing projects and software development.
 
+### TEAM MANAGED PROJECT VS COMPANY MANAGED PROJECT:
+
+<img align="center" width="1400" height="900" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/team%20vs%20company.png">
+
 ### ISSUE TYPES IN JIRA:
 - Epic: Represents a larger body of work that can be broken down into smaller tasks or stories.
 - Story: Represents a user requirement or functionality that is valuable to the end user.
@@ -46,10 +50,6 @@ JIRA is good for a wide range of businesses and team sizes because it can be cha
 ### STORY POINT ESTIMATION:
 
 <img align="center" width="700" height="500" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/STORY%20POINT%20ESTIMATE.png">
-
-### TEAM MANAGED PROJECT VS COMPANY MANAGED PROJECT:
-
-<img align="center" width="1200" height="900" src="https://github.com/vineelajyothi1996/4883-Software-Tools-seerla/blob/main/Assignments/A06/team%20vs%20company.png">
 
 ### Instructions
 - Go to https://www.atlassian.com/software/jira and get free version.
