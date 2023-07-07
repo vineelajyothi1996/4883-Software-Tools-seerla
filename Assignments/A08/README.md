@@ -176,4 +176,5 @@ Parameters: min_date (str, optional): Minimum date for filtering. max_date (str,
 - Allowing users to filter the data based on specific criteria, such as country, date range, or number of cases.
 - Attached all output images for all endpoints with URL and specific response as per the given input parameters.
 - The minor challenge faced in presenting the results for the min and max deaths route was overcome with the assistance of ChatGPT.
+- Through the process https://fastapi.tiangolo.com/tutorial/ guided me alot.
   
