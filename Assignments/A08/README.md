@@ -174,6 +174,6 @@ Parameters: min_date (str, optional): Minimum date for filtering. max_date (str,
 - Created separate endpoints for each route to retrieve details and cases based on the given dataset.
 - The program now efficiently reads the parameters provided and uses them to extract the relevant data from the "data.csv" file.
 - Allowing users to filter the data based on specific criteria, such as country, date range, or number of cases.
+- Attached all output images for all endpoints with URL and specific response as per the given input parameters.
 - The minor challenge faced in presenting the results for the min and max deaths route was overcome with the assistance of ChatGPT.
-  
   
