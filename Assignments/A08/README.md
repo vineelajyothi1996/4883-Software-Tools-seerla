@@ -23,6 +23,7 @@ The API will fetch the data from a publicly available data source and expose end
 
 ### OUTPUT
 BASE URL: http://127.0.0.1:8000
+
 ### Route: /deaths
 Get the total number of deaths across all countries and regions.
 
@@ -35,12 +36,7 @@ Parameters: year (str, optional): Filter by year.
 
 Returns: total_deaths (int): Total number of deaths. year (str): Year of the data.
 
-URL: http://127.0.0.1:8000/deaths/2020
-### RESPONSE: 
-{
-  "total_deaths": 243435399,
-  "year": "2020"
-}
+![dy](dy.png)
 
 ### Route: /avg_deaths/{year}
 Get the average number of deaths per country for the given year.
@@ -49,12 +45,7 @@ Parameters: year (str, optional): Filter by year.
 
 Returns: average_deaths (float): Average number of deaths per country. year (str): Year of the data.
 
-URL: http://127.0.0.1:8000/avg_deaths/2021
-### RESPONSE: 
-{
-  "average_deaths": 6021470.354430379,
-  "year": "2021"
-}
+![ady](ady.png)
 
 ### Route: /deaths_by_country/{country}
 Get the total number of deaths for the given country.
@@ -63,12 +54,7 @@ Parameters: country (str): Filter by country.
 
 Returns: total_deaths (int): Total number of deaths. country (str): Name of the country.
 
-URL: http://127.0.0.1:8000/deaths_by_country/Afghanistan
-### RESPONSE: 
-{
-  "total_deaths": 6239328,
-  "country": "Afghanistan"
-}
+![dc](dc.png)
 
 ### Route: /deaths_by_region/{region}
 Get the total number of deaths for the given region.
@@ -77,12 +63,7 @@ Parameters: region (str): Filter by region.
 
 Returns: total_deaths (int): Total number of deaths. region (str): Name of the region.
 
-URL: http://127.0.0.1:8000/deaths_by_region/AMRO
-### RESPONSE: 
-{
-  "total_deaths": 2307805539,
-  "region": "AMRO"
-}
+![dr](dr.png)
 
 ### Route: /deaths_by_country_yearn/{country}/{year}
 Get the total number of deaths for the given country and year.
@@ -91,13 +72,7 @@ Parameters: country (str): Filter by country. year (str): Filter by year.
 
 Returns: total_deaths (int): Total number of deaths. country (str): Name of the country. year (str): Year of the data.
 
-URL: http://127.0.0.1:8000/deaths_by_country_year/Afghanistan/2023
-### RESPONSE: 
-{
-  "total_deaths": 1356418,
-  "country": "Afghanistan",
-  "year": "2023"
-}
+![dcy](dcy.png)
 
 ### Route: /deaths_by_country_yearn/{region}/{year}
 Get the total number of deaths for the given region and year.
@@ -106,28 +81,48 @@ Parameters: region (str): Filter by region. year (str): Filter by year.
 
 Returns: total_deaths (int): Total number of deaths. region (str): Name of the region. year (str): Year of the data.
 
-URL: http://127.0.0.1:8000/deaths_by_region_year/EMRO/2020
-### RESPONSE: 
-{
-  "total_deaths": 13501765,
-  "region": "EMRO",
-  "year": "2020"
-}
+![dry](dry.png)
 
-### Route: /cases_by_country_yearn/{region}/{year}
-Get the total number of cases for the given region and year.
+### Route: /cases
+Get the total number of cases across all countries and regions.
 
-Parameters: region (str): Filter by region. year (str): Filter by year.
+![c](c.png)
 
-Returns: total_cases (int): Total number of cases. region (str): Name of the region. year (str): Year of the data.
+### Route: /cases/{year}
+Get the total number of cases for the given year.
 
-URL: http://127.0.0.1:8000/cases_by_region_year/AMRO/2020
-### RESPONSE: 
-{
-  "total_cases": 3509057698,
-  "region": "AMRO",
-  "year": "2020"
-}
+Parameters: year (str, optional): Filter by year.
+
+Returns: total_cases (int): Total number of cases. year (str): Year of the data.
+
+![cy](cy.png)
+
+### Route: /avg_cases/{year}
+Get the average number of cases per country for the given year.
+
+Parameters: year (str, optional): Filter by year.
+
+Returns: average_cases (float): Average number of casesper country. year (str): Year of the data.
+
+![acy](acy.png)
+
+### Route: /cases_by_country/{country}
+Get the total number of cases for the given country.
+
+Parameters: country (str): Filter by country.
+
+Returns: total_cases (int): Total number of cases. country (str): Name of the country.
+
+![cc](cc.png)
+
+### Route: /cases_by_region/{region}
+Get the total number of cases for the given region.
+
+Parameters: region (str): Filter by region.
+
+Returns: total_cases (int): Total number of cases. region (str): Name of the region.
+
+![cr](cr.png)
 
 ### Route: /cases_by_country_yearn/{country}/{year}
 Get the total number of cases for the given country and year.
@@ -136,5 +131,39 @@ Parameters: country (str): Filter by country. year (str): Filter by year.
 
 Returns: total_cases (int): Total number of cases. country (str): Name of the country. year (str): Year of the data.
 
-![Screenshot](screenshot.png)
+![ccy](ccy.png)
 
+### Route: /cases_by_country_yearn/{region}/{year}
+Get the total number of cases for the given region and year.
+
+Parameters: region (str): Filter by region. year (str): Filter by year.
+
+Returns: total_cases (int): Total number of cases. region (str): Name of the region. year (str): Year of the data.
+
+![cry](cry.png)
+
+### Route: /min_deaths/
+Get the country with the minimum number of deaths across all years.
+
+![mind](maxd.png)
+
+
+### Route: /max_deaths/
+Get the country with the maximum number of deaths across all years.
+
+![maxd](maxd.png)
+
+### Route: /min_deaths/{min_date}/{max_date}
+Get the country with the minimum number of deaths within the specified date range.
+
+Parameters: min_date (str, optional): Minimum date for filtering. max_date (str, optional): Maximum date for filtering.
+
+![mindd](maxdd.png)
+
+
+### Route: /max_deaths/{min_date}/{max_date}
+Get the country with the maximum number of deaths within the specified date range.
+
+Parameters: min_date (str, optional): Minimum date for filtering. max_date (str, optional): Maximum date for filtering.
+
+![maxdd](maxdd.png)
