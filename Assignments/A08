@@ -17,5 +17,18 @@ The API will fetch the data from a publicly available data source and expose end
 
 - Install libraries- unicorn, fastapi, rich.
 - Run api.py file/ Use command: uvicorn api.app --reload 
-- copy the URL and use browser to invoke.
+- copy the URL(http://127.0.0.1:8000) and use browser to invoke.
+- click on try it out on which endpoint you want to access
 - Insert valid input parameters and execute.
+
+### OUTPUT
+## BASE URL: http://127.0.0.1:8000
+# Route: /deaths
+# Get the total number of deaths across all countries and regions.
+URL: http://127.0.0.1:8000/deaths/
+# RESPONSE: 
+{
+  "total_deaths": 5158501455
+}
+
+
