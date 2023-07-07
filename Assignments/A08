@@ -1,4 +1,4 @@
-## A08 - Fast Api with Covid Data
+### A08 - Fast Api with Covid Data
 ### VINEELA SEERLA
 ### Description:
 
@@ -22,9 +22,9 @@ The API will fetch the data from a publicly available data source and expose end
 - Insert valid input parameters and execute.
 
 ### OUTPUT
-## BASE URL: http://127.0.0.1:8000
-# Route: /deaths
-# Get the total number of deaths across all countries and regions.
+### BASE URL: http://127.0.0.1:8000
+### Route: /deaths
+Get the total number of deaths across all countries and regions.
 URL: http://127.0.0.1:8000/deaths/
 # RESPONSE: 
 {
