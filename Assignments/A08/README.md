@@ -26,7 +26,7 @@ The API will fetch the data from a publicly available data source and expose end
 ### Route: /deaths
 Get the total number of deaths across all countries and regions.
 URL: http://127.0.0.1:8000/deaths/
-# RESPONSE: 
+### RESPONSE: 
 {
   "total_deaths": 5158501455
 }
@@ -92,6 +92,7 @@ The API will fetch the data from a publicly available data source and expose end
 ### BASE URL: http://127.0.0.1:8000
 ### Route: /deaths
 Get the total number of deaths across all countries and regions.
+
 URL: http://127.0.0.1:8000/deaths/
 ### RESPONSE: 
 {
@@ -100,10 +101,12 @@ URL: http://127.0.0.1:8000/deaths/
 
 ### Route: /deaths/{year}
 Get the total number of deaths for the given year.
+
 Parameters: year (str, optional): Filter by year.
+
 Returns: total_deaths (int): Total number of deaths. year (str): Year of the data.
 
-URL: [http://127.0.0.1:8000/deaths/](http://127.0.0.1:8000/deaths/2020)
+URL: http://127.0.0.1:8000/deaths/2020
 ### RESPONSE: 
 {
   "total_deaths": 243435399,
@@ -112,7 +115,9 @@ URL: [http://127.0.0.1:8000/deaths/](http://127.0.0.1:8000/deaths/2020)
 
 ### Route: /avg_deaths/{year}
 Get the average number of deaths per country for the given year.
+
 Parameters: year (str, optional): Filter by year.
+
 Returns: average_deaths (float): Average number of deaths per country. year (str): Year of the data.
 
 URL: http://127.0.0.1:8000/avg_deaths/2021
@@ -124,7 +129,9 @@ URL: http://127.0.0.1:8000/avg_deaths/2021
 
 ### Route: /deaths_by_country/{country}
 Get the total number of deaths for the given country.
+
 Parameters: country (str): Filter by country.
+
 Returns: total_deaths (int): Total number of deaths. country (str): Name of the country.
 
 URL: http://127.0.0.1:8000/deaths_by_country/Afghanistan
@@ -136,7 +143,9 @@ URL: http://127.0.0.1:8000/deaths_by_country/Afghanistan
 
 ### Route: /deaths_by_region/{region}
 Get the total number of deaths for the given region.
+
 Parameters: region (str): Filter by region.
+
 Returns: total_deaths (int): Total number of deaths. region (str): Name of the region.
 
 URL: http://127.0.0.1:8000/deaths_by_region/AMRO
@@ -148,7 +157,9 @@ URL: http://127.0.0.1:8000/deaths_by_region/AMRO
 
 ### Route: /deaths_by_country_yearn/{country}/{year}
 Get the total number of deaths for the given country and year.
+
 Parameters: country (str): Filter by country. year (str): Filter by year.
+
 Returns: total_deaths (int): Total number of deaths. country (str): Name of the country. year (str): Year of the data.
 
 URL: http://127.0.0.1:8000/deaths_by_country_year/Afghanistan/2023
@@ -161,7 +172,9 @@ URL: http://127.0.0.1:8000/deaths_by_country_year/Afghanistan/2023
 
 ### Route: /deaths_by_country_yearn/{region}/{year}
 Get the total number of deaths for the given region and year.
+
 Parameters: region (str): Filter by region. year (str): Filter by year.
+
 Returns: total_deaths (int): Total number of deaths. region (str): Name of the region. year (str): Year of the data.
 
 URL: http://127.0.0.1:8000/deaths_by_region_year/EMRO/2020
@@ -174,7 +187,9 @@ URL: http://127.0.0.1:8000/deaths_by_region_year/EMRO/2020
 
 ### Route: /cases_by_country_yearn/{region}/{year}
 Get the total number of cases for the given region and year.
+
 Parameters: region (str): Filter by region. year (str): Filter by year.
+
 Returns: total_cases (int): Total number of cases. region (str): Name of the region. year (str): Year of the data.
 
 URL: http://127.0.0.1:8000/cases_by_region_year/AMRO/2020
@@ -184,3 +199,13 @@ URL: http://127.0.0.1:8000/cases_by_region_year/AMRO/2020
   "region": "AMRO",
   "year": "2020"
 }
+
+### Route: /cases_by_country_yearn/{country}/{year}
+Get the total number of cases for the given country and year.
+
+Parameters: country (str): Filter by country. year (str): Filter by year.
+
+Returns: total_cases (int): Total number of cases. country (str): Name of the country. year (str): Year of the data.
+
+![Screenshot](screenshot.png)
+
