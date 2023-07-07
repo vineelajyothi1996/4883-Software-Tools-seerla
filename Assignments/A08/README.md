@@ -167,3 +167,13 @@ Get the country with the maximum number of deaths within the specified date rang
 Parameters: min_date (str, optional): Minimum date for filtering. max_date (str, optional): Maximum date for filtering.
 
 ![maxdd](maxdd.png)
+
+### REPORT
+
+- This document provides an overview of the API endpoints available in our project and their respective usage.
+- Created separate endpoints for each route to retrieve details and cases based on the given dataset.
+- The program now efficiently reads the parameters provided and uses them to extract the relevant data from the "data.csv" file.
+- Allowing users to filter the data based on specific criteria, such as country, date range, or number of cases.
+- The minor challenge faced in presenting the results for the min and max deaths route was overcome with the assistance of ChatGPT.
+  
+  
