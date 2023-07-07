@@ -9,8 +9,8 @@ The API will fetch the data from a publicly available data source and expose end
 
 |   #   | File                  | Description                                        |
 | :---: | :-------------------- | -------------------------------------------------- |
-|   1   | [api.py](api.py)      | Main driver of my project that launches game.      |
-|   2   | [data.csv](data.csv)  | Helper class that holds movement functions         |
+|   1   | [api.py](api.py)      | python file that contains FASTAPI Application endpoints functions  |
+|   2   | [data.csv](data.csv)  | csv file that contains dataset from wheree data can be retrive     |
 
 
 ### Instructions
